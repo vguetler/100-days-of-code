@@ -20,4 +20,10 @@ Today's Progress: been busy the past few days with course work/grading. Catching
 
 Thoughts: even though I know basic R, i.e. installing packages, loading data and performing basic functions. Going through the videos, explanations and doing the exercises has been helpful as I have learned new things I didn't know before such as starting a project and downloading data from Github to R directly. 
 
+### Day 3: May 12, 2020
+
+Today's Progress: continued with EDA exercises from the HarvardX Statistics and R course. Week 2 covers normal distributions, random variables, calculating p-values etc using R base syntax.
+
+Thoughts: watching the videos help explain the concepts. Having learned and used R packages and now learning R base syntax is weird but good to know how they work. 
+
 
